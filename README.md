@@ -8,5 +8,5 @@ di# Toggle list
 
 # Inglês:
 
-<a href="ingles0045.html">qual e aresposta </a>
+
 
